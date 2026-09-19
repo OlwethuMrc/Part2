@@ -52,4 +52,7 @@ Ensure the file structure matches the layout specified in the Project Structure 
 
 Open index.html in any web browser (Google Chrome, Mozilla Firefox, Microsoft Edge, Safari) to view the site.
 
-Navigate through the site using the top header menu.//
+Navigate through the site using the top header menu.
+
+References:
+w3schools.com//
